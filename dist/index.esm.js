@@ -2097,7 +2097,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/goosedefi",
+                href: "https://t.me/farmhubbsc",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2139,16 +2139,16 @@ var socials = [
             //   label: "Français",
             //   href: "https://t.me/pancakeswapfr",
             // },
-            {
-                label: "Announcements",
-                href: "https://t.me/goosefinanceann",
-            },
+            // {
+            //     label: "Announcements",
+            //     href: "https://t.me/goosefinanceann",
+            // },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/ToadFarmBSC",
+        href: "https://twitter.com/FarmHubBSC",
     },
 ];
 var MENU_HEIGHT = 64;
