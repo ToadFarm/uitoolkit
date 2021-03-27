@@ -99,7 +99,15 @@ export const links = [
       // },
       {
         label: "Github",
-        href: "https://github.com/toadfarm/",
+        href: "https://github.com/goosedefi/",
+      },
+      {
+        label: "Docs",
+        href: "https://goosedefi.gitbook.io/goose-finance/",
+      },
+      {
+        label: "Blog",
+        href: "https://goosefinance.medium.com/",
       },
     ],
   },
@@ -112,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/toadfarm",
+        href: "https://t.me/goosedefi",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -154,6 +162,10 @@ export const socials = [
       //   label: "Français",
       //   href: "https://t.me/pancakeswapfr",
       // },
+      {
+        label: "Announcements",
+        href: "https://t.me/goosefinanceann",
+      },
       // {
       //   label: "Whale Alert",
       //   href: "https://t.me/PancakeSwapWhales",
